@@ -2,7 +2,7 @@
 
 - I'm a student pursuing a Bachelors in Engineering Physics at IIT Hyderabad(third-year).
 -  I’m currently working on analysis of disk-galaxy properties(SFR, M*,TeFR) in the Illustris TNG Simulation.
--  I’m enthusiastic on physics problems suited for undergraduate research(I prefer theoretical over compuatational projects). 
+-  I’m enthusiastic about physics problems suited for undergraduate research(I prefer theoretical over compuatational projects). 
 -  Although my experience is mostly in astronomy I am open to all fields of physics!
 -  Experienced in Python,TOPCAT,DS9 and scientific libraries, working knowledge of Git and LaTeX
 - Collaborative research excites me and I'm happy to pursue a problem as part of a team.
